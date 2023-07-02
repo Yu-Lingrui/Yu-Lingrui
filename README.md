@@ -7,7 +7,7 @@
 <a href="https://github.com/Yu-Lingrui"> 
     <img src="https://komarev.com/ghpvc/?username=triple-Mu&color=blue" height="25px" alt="github follow" /> 
 </a>
-<a href="https://github.com/triple-Mu?tab=followers"> 
+<a href="https://github.com/Yu-Lingrui?tab=followers"> 
     <img src="https://img.shields.io/github/followers/triple-Mu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 <a href="15282590579@163.com"> 
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
