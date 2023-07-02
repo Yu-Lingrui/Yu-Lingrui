@@ -6,7 +6,6 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-### Hi there 👋
 
 <!--
 **Yu-Lingrui/Yu-Lingrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
