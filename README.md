@@ -23,7 +23,7 @@ This is Yu-Lingrui, &#x1F923; a deep learning programmer based in Chengdu and Sh
 - :orange_book: Focusing on CV & DL
 - :hammer: Explorer of algorithms and frameworks
 - :ram: Founder the ???
-- :meat_on_bone: Meat lovers and sportsmen
+- :meat_on_bone: Dancer and sportsmen
 
 
 You can reach me in the following ways:
