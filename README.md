@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/github/followers/Yu-Lingrui?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 <a href="15282590579@163.com"> 
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
-
+<a href="Yu-Lingrui.github.io"> 
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25px" alt="Website" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yu-Lingrui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Nice to meet you！👋  
