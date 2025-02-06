@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://github.com/Yu-Lingrui">
-	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Yu Lingrui;AI+Researcher+%7C+AI+Engineer;DeepLearning+Model+Training+%7C+Deploying;Major+in+Computer+Vision;" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Yu Lingrui;AI+Researcher+%7C+AI+Engineer;DeepLearning+Model+Training+%7C+Deploying;Major+in+Computer+Vision+%7C+RL;" alt="Typing SVG" />
 </a>
 
 <p> 
@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
 <a href="Yu-Lingrui.github.io"> 
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25px" alt="Website" /></a>
+<a href="Yu-Lingrui.github.io"> 
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Coding" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yu-Lingrui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 ### Nice to meet you！👋  
 
@@ -32,7 +35,6 @@ You can reach me in the following ways:
 WeChat: [15282590579]
 
 Email: 15282590579@163.com
-
 
 
 ### My usual programming languages
